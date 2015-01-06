@@ -102,6 +102,8 @@ analyze_all <- function(pattern) {
     analyze(f)
   }
 }
+
+# adding a comment to demo git in rstudio
   
   
 
